@@ -1,4 +1,4 @@
-name = "r2-explorer"
+name = "cloudflare-home-bucket"
 compatibility_date = "2024-11-06"
 main = "src/index.ts"
 assets = { directory = "../packages/worker/dashboard", binding = "ASSETS", html_handling = "auto-trailing-slash", not_found_handling = "single-page-application" }
